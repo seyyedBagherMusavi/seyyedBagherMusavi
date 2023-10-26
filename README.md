@@ -11,9 +11,6 @@ Senior Java Developer with expertise in Spring Boot.<br>Proficient in JavaScript
 ![](https://github-readme-stats.vercel.app/api?username=seyyedBagherMusavi&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=seyyedBagherMusavi&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=seyyedBagherMusavi&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![An image of @seyyedbaghermusavi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/seyyedbaghermusavi)](https://holopin.io/@seyyedbaghermusavi)
 ---
 [![](https://visitcount.itsvg.in/api?id=seyyedBagherMusavi&icon=0&color=4)](https://visitcount.itsvg.in)
 
